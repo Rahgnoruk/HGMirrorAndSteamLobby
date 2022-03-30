@@ -1,0 +1,19 @@
+{
+    "name": "com.hypergnosys.mirror-steam-lobby",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5",
+        "GUID:96dde5c6a633b9b4cbf9b550836d9ac1",
+        "GUID:07785d06f99e6ad43bbb36c8e1595ab9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,31 @@
+{
+    "name": "com.hypergnosys.mirror-steam-lobby",
+    "version": "1.0.0",
+    "displayName": "HGMirrorAndSteamLobby",
+    "description": " A solution that combines Mirror Networking with Fizzy SteamWorks/FacePunch to create a peer to peer lobby",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGMirrorAndSteamLobby",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGMirrorAndSteamLobby",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGMirrorAndSteamLobby",
+    "keywords": [
+      "HyperGnosys",
+      "Mirror Networking",
+      "Fizzy SteamWorks",
+      "Fizzy FacePunch",
+      "Steam Multiplayer"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    },
+    "gitDependencies": {
+      "com.hypergnosys.core": "https://github.com/Rahgnoruk/HGCodeBaseCore",
+      "com.hypergnosys.mirror-integration": "https://github.com/Rahgnoruk/HGMirrorIntegration",
+      "com.mirror.steamworks.net": "https://github.com/Chykary/FizzySteamworks.git?path=/com.mirror.steamworks.net",
+      "com.rlabrecque.steamworks.net": "https://github.com/rlabrecque/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net"
+    }
+  }
